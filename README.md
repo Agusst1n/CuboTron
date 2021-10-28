@@ -1,2 +1,0 @@
-# CuboTron
-Esta listo
